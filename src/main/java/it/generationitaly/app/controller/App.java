@@ -8,6 +8,7 @@ public class App {
 		metodo2();
 		System.out.println("Hello world!");
 		metodoRosa();
+		System.out.println("Push");
 	}
 	
 	private static void metodo1() {
