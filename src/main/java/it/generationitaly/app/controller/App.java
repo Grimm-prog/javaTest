@@ -7,6 +7,7 @@ public class App {
 		metodo1();
 		metodo2();
 		System.out.println("Hello world!");
+		metodoRosa();
 	}
 	
 	private static void metodo1() {
@@ -15,5 +16,9 @@ public class App {
 
 	private static void metodo2() {
 		System.out.println("metodo 2");
+	}
+	
+	private static void metodoRosa() {
+		System.out.println("ciao");
 	}
 }
