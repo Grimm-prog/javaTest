@@ -10,6 +10,7 @@ public class App {
 		System.out.println("Hello world!");
 		metodoRosa();
 		System.out.println("Push");
+		metodoNicholas();
 	}
 	
 	private static void metodo1() {
@@ -22,5 +23,9 @@ public class App {
 	
 	private static void metodoRosa() {
 		System.out.println("ciao");
+	}
+	
+	private static void metodoNicholas() {
+		System.out.println("Hello world!");
 	}
 }
