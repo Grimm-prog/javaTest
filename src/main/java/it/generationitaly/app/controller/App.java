@@ -5,6 +5,7 @@ public class App {
 	public static void main(String[] args) {
 		System.out.println("Hello Rosa!");
 		System.out.println("Hello Lorena");
+	 System.out.println("Test on mobile edit");
 		metodo1();
 		metodo2();
 		System.out.println("Hello world!");
